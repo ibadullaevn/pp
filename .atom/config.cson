@@ -1,0 +1,12 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    uriHandlerRegistration: "always"
+  editor:
+    fontSize: 17
+  "exception-reporting":
+    userId: "a9e5797f-c771-48b9-b054-9c1c445e1d4f"
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
